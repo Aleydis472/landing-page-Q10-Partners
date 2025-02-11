@@ -270,6 +270,10 @@ footer a {
     .welcome-section {
         border-radius: 0;
     }
+    
+    .benefits-section{
+        border-radius: 0;
+    }
 }
 
 @media (max-width: 480px) {
